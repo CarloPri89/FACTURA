@@ -1,0 +1,43 @@
+C:\Users\edgar\AppData\Local\Temporary Projects\splash pantalla de inicio\bin\Debug\splash pantalla de inicio.exe
+C:\Users\edgar\AppData\Local\Temporary Projects\splash pantalla de inicio\bin\Debug\splash pantalla de inicio.pdb
+C:\Users\edgar\AppData\Local\Temporary Projects\splash pantalla de inicio\bin\Debug\splash pantalla de inicio.xml
+C:\Users\edgar\AppData\Local\Temporary Projects\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.Form1.resources
+C:\Users\edgar\AppData\Local\Temporary Projects\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.Resources.resources
+C:\Users\edgar\AppData\Local\Temporary Projects\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.vbproj.GenerateResource.Cache
+C:\Users\edgar\AppData\Local\Temporary Projects\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.exe
+C:\Users\edgar\AppData\Local\Temporary Projects\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.xml
+C:\Users\edgar\AppData\Local\Temporary Projects\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.pdb
+C:\Users\edgar\AppData\Local\Temporary Projects\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.principal.resources
+H:\VB .NET - proyectos\VB\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.exe
+H:\VB .NET - proyectos\VB\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.xml
+H:\VB .NET - proyectos\VB\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.pdb
+H:\VB .NET - proyectos\VB\splash pantalla de inicio\splash pantalla de inicio\bin\Debug\splash pantalla de inicio.exe
+H:\VB .NET - proyectos\VB\splash pantalla de inicio\splash pantalla de inicio\bin\Debug\splash pantalla de inicio.pdb
+H:\VB .NET - proyectos\VB\splash pantalla de inicio\splash pantalla de inicio\bin\Debug\splash pantalla de inicio.xml
+H:\VB .NET - proyectos\VB\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.Form1.resources
+H:\VB .NET - proyectos\VB\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.Resources.resources
+H:\VB .NET - proyectos\VB\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.principal.resources
+H:\VB .NET - proyectos\VB\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.vbproj.GenerateResource.Cache
+I:\VB .NET - proyectos\VB\SPLASH\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.exe
+I:\VB .NET - proyectos\VB\SPLASH\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.xml
+I:\VB .NET - proyectos\VB\SPLASH\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.pdb
+I:\VB .NET - proyectos\VB\SPLASH\splash pantalla de inicio\splash pantalla de inicio\bin\Debug\splash pantalla de inicio.exe
+I:\VB .NET - proyectos\VB\SPLASH\splash pantalla de inicio\splash pantalla de inicio\bin\Debug\splash pantalla de inicio.pdb
+I:\VB .NET - proyectos\VB\SPLASH\splash pantalla de inicio\splash pantalla de inicio\bin\Debug\splash pantalla de inicio.xml
+I:\VB .NET - proyectos\VB\SPLASH\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.Form1.resources
+I:\VB .NET - proyectos\VB\SPLASH\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.Resources.resources
+I:\VB .NET - proyectos\VB\SPLASH\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.principal.resources
+I:\VB .NET - proyectos\VB\SPLASH\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.vbproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\bin\Debug\splash pantalla de inicio.exe
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\bin\Debug\splash pantalla de inicio.pdb
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\bin\Debug\splash pantalla de inicio.xml
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.vbprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.Form1.resources
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.Resources.resources
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.principal.resources
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.vbproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.vbproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.exe
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.xml
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash pantalla de inicio.pdb
+C:\Users\Carlos\Desktop\splash pantalla de inicio\splash pantalla de inicio\obj\x86\Debug\splash_pantalla_de_inicio.Form2.resources

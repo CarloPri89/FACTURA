@@ -1,0 +1,31 @@
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\bin\Debug\Factura.exe.config
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\bin\Debug\Factura.exe
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\bin\Debug\Factura.pdb
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.exe
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.pdb
+C:\Users\Carlos\Desktop\Factura\bin\Debug\Factura.exe.config
+C:\Users\Carlos\Desktop\Factura\bin\Debug\Factura.exe
+C:\Users\Carlos\Desktop\Factura\bin\Debug\Factura.pdb
+C:\Users\Carlos\Desktop\Factura\obj\Debug\Factura.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\Carlos\Desktop\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\Carlos\Desktop\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Factura\obj\Debug\Factura.exe
+C:\Users\Carlos\Desktop\Factura\obj\Debug\Factura.pdb
+D:\hacks\basurasxd\Factura\bin\Debug\Factura.exe.config
+D:\hacks\basurasxd\Factura\bin\Debug\Factura.exe
+D:\hacks\basurasxd\Factura\bin\Debug\Factura.pdb
+D:\hacks\basurasxd\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+D:\hacks\basurasxd\Factura\obj\Debug\Factura.csproj.SuggestedBindingRedirects.cache
+D:\hacks\basurasxd\Factura\obj\Debug\Factura.Form1.resources
+D:\hacks\basurasxd\Factura\obj\Debug\Factura.Properties.Resources.resources
+D:\hacks\basurasxd\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+D:\hacks\basurasxd\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+D:\hacks\basurasxd\Factura\obj\Debug\Factura.exe
+D:\hacks\basurasxd\Factura\obj\Debug\Factura.pdb
